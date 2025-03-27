@@ -43,9 +43,9 @@ Actuellement basé en Ile-de-France, je suis un apprenant motivé qui se forme a
 
 ## Stats Github
 
-![GitHub Stats](https://github-readme-stats-five-blush-94.vercel.app/api?username=Baretsky&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-five-blush-94.vercel.app/api?username=Baretsky&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats-five-blush-94.vercel.app/api/top-langs/?username=Baretsky&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-blush-94.vercel.app/api/top-langs/?username=Baretsky&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me contacter
 
