@@ -4,11 +4,11 @@ Je suis **Dara**, un passionné d’automatisation et de technologies cloud, ave
 
 ## À propos de moi
 
-Actuellement basé en Ile-de-France, je suis un apprenant motivé qui se forme activement aux outils et pratiques du DevOps. Sans affiliation professionnelle pour le moment, je consacre mon temps à des projets personnels, à l’expérimentation de nouvelles technologies et à la préparation de mon futur dans l’univers de l’automatisation et du cloud. Mon objectif ? Devenir un expert qui rend les systèmes plus rapides, fiables et scalables.
+Actuellement basé en Ile-de-France, je suis un apprenant motivé qui se forme activement aux outils et pratiques du DevOps. Je consacre mon temps libre à des projets personnels, à l’expérimentation de nouvelles technologies et à la préparation de mon futur dans l’univers de l’automatisation et du cloud. Mon objectif ? Devenir un expert qui rend les systèmes plus rapides, fiables et scalables.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,spring,react,threejs,tailwind,docker,kubernetes,terraform,jenkins,git,linux,debian,ubuntu,nginx,cloudflare,aws,vercel,raspberrypi,postman&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,react,tailwind,docker,jenkins,git,linux,debian,ubuntu,nginx,cloudflare,aws,raspberrypi,postman&perline=30)](https://skillicons.dev)
 
 <!---
 **Programming Languages:**
