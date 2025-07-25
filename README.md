@@ -4,11 +4,11 @@ Je suis **Dara**, un passionné d’automatisation et de technologies cloud, ave
 
 ## À propos de moi
 
-Actuellement basé en Ile-de-France, je suis un apprenant motivé qui se forme activement aux outils et pratiques du DevOps. Je consacre mon temps libre à des projets personnels, à l’expérimentation de nouvelles technologies et à la préparation de mon futur dans l’univers de l’automatisation et du cloud. Mon objectif ? Devenir un expert qui rend les systèmes plus rapides, fiables et scalables.
+Actuellement basé en Ile-de-France, je me forme activement aux outils et pratiques du DevOps. Je consacre mon temps libre à des projets personnels, à l’expérimentation de nouvelles technologies et outils.
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,react,tailwind,docker,jenkins,git,linux,debian,ubuntu,nginx,cloudflare,aws,raspberrypi,postman&perline=30)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,react,tailwind,docker,jenkins,git,linux&perline=30)](https://skillicons.dev)
 
 <!---
 **Programming Languages:**
@@ -35,11 +35,9 @@ Actuellement basé en Ile-de-France, je suis un apprenant motivé qui se forme a
 
 - [DevOps-Pipeline](https://github.com/Baretsky/DevOps-Pipeline)  
   Un projet dont le but est de mettre en place un pipeline CI/CD pour une application Java avec Jenkins, Docker et Kubernetes.  
-  **Stars:** 0 | **Language:** Java | **Forks:** 0 | **Issues:** 0
 
-- [Portfolio](https://github.com/Baretsky/Portfolio)  
-  Mon portfolio personnel, un site web React/ThreeJS hébergé sur mon serveur personnel.  
-  **Stars:** 0 | **Language:** React/ThreeJS | **Forks:** 0 | **Issues:** 0
+- [Unmonitarr](https://github.com/Baretsky/Portfolio)  
+  Application liée aux applicaitons *Arr, et permet d'automatiser le monitoring des médias en fonction du statut issu de Jellyfin.
 
 ## Stats Github
 
